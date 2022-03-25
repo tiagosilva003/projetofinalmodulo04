@@ -1,4 +1,6 @@
-# **API-livraria-Pedido
+# **API-livraria-Pedido 
+
+![Imagem Livraria!](https://www.naoobvio.com/wp-content/uploads/2018/09/2.jpg)
 
 Projeto de encerramento do módulo 4 da Resilia Educação.
 O projeto consiste no desenvolvimento de uma API para livraria, que possui todas as rotas básicas do CRUD.
